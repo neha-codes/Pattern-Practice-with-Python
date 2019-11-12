@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Nov 17 19:21:09 2019
+Created on Mon Nov 18 10:22:09 2019
 
 @author: nehap
 """
@@ -20,16 +20,18 @@ if __name__=="__main__":
     k = 0
     print("Output :")
     #Outer Loop - controlling number of rows
-    for i in range(n,0):
-        #Inner loop - controlling blank spaces
-        for j in range(i):
-            print("*")
+    for i in range(n, 0, -1):
+        #Inner loop - controlling spaces
+        for j in range(k):
+            print(end=" ")
         #Inner loop - controlling stars
-        #for j in range(0, i+1):
-         #   print("*", end=" ")
-        #reduce the spaces after each row
-        k = k+2
+        for j in range(i, 0, -1):
+             print("*", end=" ")
+        #Increment spcae after each row
+        k=k+2
         print("\r")
+       
+        
         
         
       
