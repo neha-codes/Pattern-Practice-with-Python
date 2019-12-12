@@ -25,5 +25,6 @@ This repository is a compilation of my source code written while trying to picku
 - [Pattern 18](https://github.com/neha-codes/Pattern-Practice-with-Python/blob/master/pat18.py)
 - [Pattern 19](https://github.com/neha-codes/Pattern-Practice-with-Python/blob/master/pat19.py)
 - [Pattern 20](https://github.com/neha-codes/Pattern-Practice-with-Python/blob/master/pat20.py)
-
+- [Pattern 21](https://github.com/neha-codes/Pattern-Practice-with-Python/blob/master/pat21.py)
+- [Pattern 22](https://github.com/neha-codes/Pattern-Practice-with-Python/blob/master/pat22.py)
 
